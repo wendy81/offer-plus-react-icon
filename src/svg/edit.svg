@@ -1,0 +1,11 @@
+<svg width="16" fill="#1A99F4" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="editicon/dark/edit">
+    <g id="editicon/dark/editFill 1">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M 1 0C 0.447 0 0 0.448 0 1C 0 1.552 0.447 2 1 2C 1.553 2 2 1.552 2 1C 2 0.448 1.553 0 1 0Z" transform="translate(14 0)" />
+    </g>
+    <g id="editicon/dark/editFill 3">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M 12.293 0.29325L 3.957 8.62925C 3.566 9.02025 3.566 9.65225 3.957 10.0433C 4.348 10.4342 4.981 10.4342 5.371 10.0433L 11 4.41425L 11 12.0863L 2 12.0863L 2 2.08625L 7 2.08625C 7.553 2.08625 8 1.63825 8 1.08625C 8 0.53425 7.553 0.08625 7 0.08625L 1.083 0.08625C 0.485 0.08625 0 0.57125 0 1.16925L 0 13.0022C 0 13.6012 0.485 14.0863 1.083 14.0863L 11.917 14.0863C 12.515 14.0863 13 13.6012 13 13.0022L 13 2.41425L 13.707 1.70725C 14.098 1.31725 14.098 0.68425 13.707 0.29325C 13.316 -0.09775 12.684 -0.09775 12.293 0.29325Z" transform="translate(0 1.91382)" />
+    </g>
+</g>
+</svg>
+

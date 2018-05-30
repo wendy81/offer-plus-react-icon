@@ -1,0 +1,40 @@
+<svg width="16" height="16" fill="#212C42" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<g id="emissionPage 1">
+<g id="emissionicon/dark/emitted code">
+<g id="emissionFill 1">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 4 0C 4.553 0 5 0.447 5 1C 5 1.553 4.553 2 4 2L 1 2C 0.447 2 0 1.553 0 1C 0 0.447 0.447 0 1 0L 4 0Z" transform="translate(11 11)" />
+</g>
+<g id="emissionFill 3">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 1 0C 0.447 0 0 0.447 0 1C 0 1.553 0.447 2 1 2C 1.553 2 2 1.553 2 1C 2 0.447 1.553 0 1 0" transform="translate(8 14)" />
+</g>
+<g id="emissionFill 5">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 1 0C 0.447 0 0 0.447 0 1C 0 1.553 0.447 2 1 2C 1.553 2 2 1.553 2 1C 2 0.447 1.553 0 1 0" transform="translate(8 11)" />
+</g>
+<g id="emissionFill 7">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 1 0C 0.447 0 0 0.447 0 1C 0 1.553 0.447 2 1 2C 1.553 2 2 1.553 2 1C 2 0.447 1.553 0 1 0" transform="translate(11 14)" />
+</g>
+<g id="emissionFill 9">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 1 0C 0.447 0 0 0.447 0 1C 0 1.553 0.447 2 1 2C 1.553 2 2 1.553 2 1C 2 0.447 1.553 0 1 0" transform="translate(14 14)" />
+</g>
+<mask id="emissionmask0" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g id="emissionClip 12">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 0 16L 16 16L 16 0L 0 0L 0 16Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#emissionmask0)">
+<g id="emissionFill 11">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 2 5L 5 5L 5 2L 2 2L 2 5ZM 6 0L 1 0C 0.447 0 0 0.447 0 1L 0 6C 0 6.553 0.447 7 1 7L 6 7C 6.553 7 7 6.553 7 6L 7 1C 7 0.447 6.553 0 6 0L 6 0Z" />
+</g>
+<g id="emissionFill 13">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 2 5L 5 5L 5 2L 2 2L 2 5ZM 6 0L 1 0C 0.447 0 0 0.447 0 1L 0 6C 0 6.553 0.447 7 1 7L 6 7C 6.553 7 7 6.553 7 6L 7 1C 7 0.447 6.553 0 6 0L 6 0Z" transform="translate(0 9)" />
+</g>
+<g id="emissionFill 14">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 2 5L 5 5L 5 2L 2 2L 2 5ZM 6 0L 1 0C 0.447 0 0 0.447 0 1L 0 6C 0 6.553 0.447 7 1 7L 6 7C 6.553 7 7 6.553 7 6L 7 1C 7 0.447 6.553 0 6 0L 6 0Z" transform="translate(9 0)" />
+</g>
+</g>
+</g>
+</g>
+
+</svg>
+
