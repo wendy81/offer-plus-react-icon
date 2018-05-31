@@ -1,0 +1,10 @@
+<svg width="16" fill="#212C42" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<g id="group-blockFill 1">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 9 0C 8.447 0 8 0.447 8 1L 8 11L 1 11C 0.447 11 0 11.447 0 12C 0 12.553 0.447 13 1 13L 9 13C 9.553 13 10 12.553 10 12L 10 1C 10 0.447 9.553 0 9 0" transform="translate(4 3)"/>
+</g>
+<g id="group-blockFill 3">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 2 11L 8 11L 8 6L 2 6L 2 11ZM 2 4L 8 4L 8 2L 2 2L 2 4ZM 10 12L 10 1C 10 0.447 9.553 0 9 0L 1 0C 0.447 0 0 0.447 0 1L 0 12C 0 12.553 0.447 13 1 13L 9 13C 9.553 13 10 12.553 10 12L 10 12Z" transform="translate(1 0)" />
+</g>
+</svg>
+

@@ -1,0 +1,21 @@
+<svg width="16" fill="#1A99F4" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <g id="filterfilter">
+        <g id="filterPage 1">
+            <g id="filterFill 1">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M 0.982 2L 1.017 2C 1.557 2 2 1.558 2 1.017L 2 0.983C 2 0.442 1.557 0 1.017 0L 0.982 0C 0.442 0 0 0.442 0 0.983L 0 1.017C 0 1.558 0.442 2 0.982 2Z" transform="matrix(0 1 -1 0 16 4)" />
+            </g>
+            <g id="filterFill 3">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M 2 0C 0.896 0 0 0.896 0 2C 0 2.738 0.404 3.376 1 3.723L 1 12.017C 1 12.558 1.442 13 1.982 13L 2.018 13C 2.558 13 3 12.558 3 12.017L 3 3.723C 3.596 3.376 4 2.738 4 2C 4 0.896 3.104 0 2 0Z" transform="matrix(0 1 -1 0 13 3)"/>
+            </g>
+            <g id="filterFill 9">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M 1.018 0L 0.983 0C 0.443 0 0 0.442 0 0.983L 0 1.017C 0 1.558 0.443 2 0.983 2L 1.018 2C 1.558 2 2 1.558 2 1.017L 2 0.983C 2 0.442 1.558 0 1.018 0Z" transform="matrix(0 1 -1 0 2 10)" />
+            </g>
+            <g id="filterFill 11">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M 3 9.277L 3 0.983C 3 0.442 2.558 0 2.018 0L 1.982 0C 1.442 0 1 0.442 1 0.983L 1 9.277C 0.404 9.624 0 10.261 0 11C 0 12.104 0.896 13 2 13C 3.104 13 4 12.104 4 11C 4 10.261 3.596 9.624 3 9.277Z" transform="matrix(0 1 -1 0 16 9)" />
+            </g>
+        </g>
+    </g>
+
+</svg>
+
