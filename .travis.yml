@@ -23,3 +23,5 @@ deploy:
   tag: next
   on:
     repo: crptteam/react-icon
+
+
