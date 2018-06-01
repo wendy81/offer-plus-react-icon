@@ -42,6 +42,9 @@ import Search from './search.svg';
 import SoldOut from './sold-out.svg';
 import Phone from './phone.svg';
 import Mail from './mail.svg';
+import Pack from './pack.svg';
+import Block from './block.svg';
+import Box from './box.svg';
 
 const ICONS = {
   'add-blank': props => <AddBlank {...props} />,
@@ -86,5 +89,8 @@ const ICONS = {
   'sold-out': props => <SoldOut {...props} />,
   'phone': props => <Phone {...props} />,
   'mail': props => <Mail {...props} />,
+  pack: props => <Pack {...props} />,
+  block: props => <Block {...props} />,
+  box: props => <Box {...props} />,
 };
 export { ICONS };
