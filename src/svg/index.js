@@ -47,6 +47,8 @@ import Block from './block.svg';
 import Box from './box.svg';
 import Utd from './utd.svg';
 import Agregation from './agregation.svg';
+import Issued from './issued.svg';
+import DocError from './doc-error.svg';
 
 const ICONS = {
   'add-blank': props => <AddBlank {...props} />,
@@ -96,5 +98,7 @@ const ICONS = {
   box: props => <Box {...props} />,
   utd: props => <Utd {...props} />,
   agregation: props => <Agregation {...props} />,
+  issued: props => <Issued {...props} />,
+  'doc-error': props => <DocError {...props} />,
 };
 export { ICONS };
