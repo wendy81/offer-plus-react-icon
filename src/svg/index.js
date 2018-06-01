@@ -45,6 +45,8 @@ import Mail from './mail.svg';
 import Pack from './pack.svg';
 import Block from './block.svg';
 import Box from './box.svg';
+import Utd from './utd.svg';
+import Agregation from './agregation.svg';
 
 const ICONS = {
   'add-blank': props => <AddBlank {...props} />,
@@ -92,5 +94,7 @@ const ICONS = {
   pack: props => <Pack {...props} />,
   block: props => <Block {...props} />,
   box: props => <Box {...props} />,
+  utd: props => <Utd {...props} />,
+  agregation: props => <Agregation {...props} />,
 };
 export { ICONS };
