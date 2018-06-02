@@ -49,6 +49,8 @@ import Utd from './utd.svg';
 import Agregation from './agregation.svg';
 import Issued from './issued.svg';
 import DocError from './doc-error.svg';
+import Member from './member.svg';
+import NotMember from './not-member.svg';
 
 const ICONS = {
   'add-blank': props => <AddBlank {...props} />,
@@ -100,5 +102,7 @@ const ICONS = {
   agregation: props => <Agregation {...props} />,
   issued: props => <Issued {...props} />,
   'doc-error': props => <DocError {...props} />,
+  member: props => <Member {...props} />,
+  'not-member': props => <Member {...props} />,
 };
 export { ICONS };
