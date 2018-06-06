@@ -51,6 +51,7 @@ import Issued from './issued.svg';
 import DocError from './doc-error.svg';
 import Member from './member.svg';
 import NotMember from './not-member.svg';
+import ChatSendArrow from './chat-send-arrow.svg';
 
 const ICONS = {
   'add-blank': props => <AddBlank {...props} />,
@@ -103,6 +104,7 @@ const ICONS = {
   issued: props => <Issued {...props} />,
   'doc-error': props => <DocError {...props} />,
   member: props => <Member {...props} />,
-  'not-member': props => <Member {...props} />,
+  'not-member': props => <NotMember {...props} />,
+  'chat-send-arrow': props => <ChatSendArrow {...props} />,
 };
 export { ICONS };
