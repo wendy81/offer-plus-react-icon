@@ -14,6 +14,7 @@ import Checkmark from './checkmark.svg';
 import Cigarettes from './cigarettes.svg';
 import ClosedArrow from './closed-arrow.svg';
 import CodeInvalid from './code-invalid.svg';
+import Cross from './cross.svg';
 import CrossHumanIcon from './cross-human-icon.svg';
 import Disaggregated from './disaggregated.svg';
 import DocAggregation from './doc-aggregation.svg';
@@ -68,6 +69,7 @@ const ICONS = {
   cigarettes: props => <Cigarettes {...props} />,
   'closed-arrow': props => <ClosedArrow {...props} />,
   'code-invalid': props => <CodeInvalid {...props} />,
+  cross: props => <Cross {...props} />,
   'cross-human-icon': props => <CrossHumanIcon {...props} />,
   disaggregated: props => <Disaggregated {...props} />,
   download: props => <Download {...props} />,
