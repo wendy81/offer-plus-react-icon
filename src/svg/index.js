@@ -29,6 +29,7 @@ import FilledCart from './filled-cart.svg';
 import Formed from './formed.svg';
 import GroupBlock from './group-block.svg';
 import HumanIcon from './human-icon.svg';
+import Info from './info.svg';
 import NotAllow from './not-allow.svg';
 import Pan from './pan.svg';
 import PrintFlame from './print-flame.svg';
@@ -85,6 +86,7 @@ const ICONS = {
   formed: props => <Formed {...props} />,
   'group-block': props => <GroupBlock {...props} />,
   'human-icon': props => <HumanIcon {...props} />,
+  info: props => <Info {...props} />,
   'not-allow': props => <NotAllow {...props} />,
   pan: props => <Pan {...props} />,
   'print-flame': props => <PrintFlame {...props} />,
