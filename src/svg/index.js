@@ -2,6 +2,8 @@ import React from "react";
 
 import AddBlank from './add-blank.svg';
 import Aggregated from './aggregated.svg';
+import ArrowToLeft from './arrow-to-left.svg';
+import ArrowToRight from './arrow-to-right.svg';
 import ArrowsFromCenter from './arrows-from-center.svg';
 import ArrowsToCenter from './arrows-to-center.svg';
 import BoxOnLoader from './box-on-loader.svg';
@@ -60,9 +62,11 @@ import WriteOffCode from "./write-off-code.svg";
 const ICONS = {
   "add-blank": props => <AddBlank {...props} />,
   aggregated: props => <Aggregated {...props} />,
-  "arrows-from-center": props => <ArrowsFromCenter {...props} />,
-  "arrows-to-center": props => <ArrowsToCenter {...props} />,
-  "box-on-loader": props => <BoxOnLoader {...props} />,
+  'arrow-to-left': props => <ArrowToLeft {...props} />,
+  'arrow-to-right': props => <ArrowToRight {...props} />,
+  'arrows-from-center': props => <ArrowsFromCenter {...props} />,
+  'arrows-to-center': props => <ArrowsToCenter {...props} />,
+  'box-on-loader': props => <BoxOnLoader {...props} />,
   cancel: props => <Cancel {...props} />,
   cart: props => <Cart {...props} />,
   "check-bso": props => <CheckBso {...props} />,
