@@ -1,6 +1,6 @@
 {
   "name": "@crpt/react-icon",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "react-icon React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -11,7 +11,6 @@
     "umd",
     "src"
   ],
-
   "scripts": {
     "build": "nwb build-react-component --copy-files",
     "clean": "nwb clean-module && nwb clean-demo",
