@@ -50,6 +50,7 @@ import Pack from './pack.svg';
 import Block from './block.svg';
 import Box from './box.svg';
 import Utd from './utd.svg';
+import Utdi from './utdi.svg';
 import Agregation from './agregation.svg';
 import Issued from './issued.svg';
 import DocError from './doc-error.svg';
@@ -58,6 +59,7 @@ import NotMember from './not-member.svg';
 import ChatSendArrow from './chat-send-arrow.svg';
 import Turnover from "./turnover.svg";
 import WriteOffCode from "./write-off-code.svg";
+import Ucd from "./ucd.svg";
 
 const ICONS = {
   "add-blank": props => <AddBlank {...props} />,
@@ -110,6 +112,7 @@ const ICONS = {
   block: props => <Block {...props} />,
   box: props => <Box {...props} />,
   utd: props => <Utd {...props} />,
+  utdi: props => <Utdi {...props} />,
   agregation: props => <Agregation {...props} />,
   issued: props => <Issued {...props} />,
   "doc-error": props => <DocError {...props} />,
@@ -117,6 +120,7 @@ const ICONS = {
   "not-member": props => <NotMember {...props} />,
   "chat-send-arrow": props => <ChatSendArrow {...props} />,
   turnover: props => <Turnover {...props} />,
-  'write-off-code': props => <WriteOffCode {...props} />
+  'write-off-code': props => <WriteOffCode {...props} />,
+  ucd: props => <Ucd {...props}/>,
 };
 export { ICONS };
