@@ -62,6 +62,7 @@ import WriteOffCode from "./write-off-code.svg";
 import Ucd from "./ucd.svg";
 import Ucdi from "./ucdi.svg";
 import ErrorStatus from "./error-status.svg";
+import Upd from "./upd.svg";
 
 const ICONS = {
   "add-blank": props => <AddBlank {...props} />,
@@ -125,6 +126,7 @@ const ICONS = {
   'write-off-code': props => <WriteOffCode {...props} />,
   ucd: props => <Ucd {...props}/>,
   ucdi: props => <Ucdi {...props}/>,
-  'error-status': props => <ErrorStatus {...props} />
+  'error-status': props => <ErrorStatus {...props} />,
+  'upd': props => <Upd {...props} />,
 };
 export { ICONS };
