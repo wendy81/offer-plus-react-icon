@@ -63,6 +63,7 @@ import Ucd from "./ucd.svg";
 import Ucdi from "./ucdi.svg";
 import ErrorStatus from "./error-status.svg";
 import Upd from "./upd.svg";
+import Receipt from "./receipt.svg";
 
 const ICONS = {
   "add-blank": props => <AddBlank {...props} />,
@@ -128,5 +129,6 @@ const ICONS = {
   ucdi: props => <Ucdi {...props}/>,
   'error-status': props => <ErrorStatus {...props} />,
   'upd': props => <Upd {...props} />,
+  'receipt': props => <Receipt {...props} />,
 };
 export { ICONS };
