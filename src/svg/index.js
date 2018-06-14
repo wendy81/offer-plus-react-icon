@@ -60,6 +60,7 @@ import ChatSendArrow from './chat-send-arrow.svg';
 import Turnover from "./turnover.svg";
 import WriteOffCode from "./write-off-code.svg";
 import Ucd from "./ucd.svg";
+import ErrorStatus from "./error-status.svg";
 
 const ICONS = {
   "add-blank": props => <AddBlank {...props} />,
@@ -122,5 +123,6 @@ const ICONS = {
   turnover: props => <Turnover {...props} />,
   'write-off-code': props => <WriteOffCode {...props} />,
   ucd: props => <Ucd {...props}/>,
+  'error-status': props => <ErrorStatus {...props} />
 };
 export { ICONS };
