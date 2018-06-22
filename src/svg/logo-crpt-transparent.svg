@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-80.000000, -24.000000)" fill="#FFFFFF">
+            <g id="Group" transform="translate(80.000000, 24.000000)">
+                <path d="M14,30 L14,27 L17,27 L17,30 L23,30 L23,27 L23,24 L26,24 L29,24 L32,24 L32,27 L29,27 L26,27 L26,30 L32,30 L32,32 L2,32 L0,32 L0,0 L2,0 L5,0 L5,3 L2,3 L2,6 L5,6 L5,9 L5,12 L2,12 L2,27 L5,27 L5,30 L8,30 L8,27 L11,27 L11,30 L14,30 Z M17,9 L14,9 L14,6 L14,3 L17,3 L17,6 L20,6 L20,9 L20,12 L17,12 L17,9 Z M23,18 L23,15 L23,12 L23,9 L23,6 L26,6 L26,9 L26,12 L29,12 L32,12 L32,15 L29,15 L29,18 L26,18 L26,21 L23,21 L23,18 Z M20,24 L20,27 L17,27 L17,24 L17,21 L17,18 L20,18 L20,21 L23,21 L23,24 L20,24 Z M11,24 L11,21 L11,18 L14,18 L14,21 L14,24 L14,27 L11,27 L11,24 Z M11,15 L11,18 L8,18 L8,15 L8,12 L11,12 L11,15 Z M8,6 L5,6 L5,3 L8,3 L11,3 L11,6 L11,9 L8,9 L8,6 Z M8,21 L8,24 L5,24 L5,21 L5,18 L8,18 L8,21 Z M11,0 L14,0 L14,3 L11,3 L11,0 Z M17,0 L20,0 L20,3 L17,3 L17,0 Z M20,3 L23,3 L23,6 L20,6 L20,3 Z M23,0 L26,0 L26,3 L23,3 L23,0 Z M29,0 L32,0 L32,3 L29,3 L29,0 Z M29,6 L32,6 L32,9 L29,9 L29,6 Z M11,9 L14,9 L14,12 L11,12 L11,9 Z M29,18 L32,18 L32,21 L29,21 L29,18 Z M14,12 L17,12 L17,15 L14,15 L14,12 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
