@@ -1,6 +1,6 @@
 {
   "name": "@crpt/react-icon",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "react-icon React component",
   "main": "lib/index.js",
   "module": "es/index.js",
