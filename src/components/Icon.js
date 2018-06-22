@@ -1,15 +1,15 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
-import styled from 'styled-components';
+import React, { Component } from "react";
+import PropTypes from "prop-types";
+import { withTheme } from "styled-components";
 
-import Wrapper from '../styled/Wrapper';
+import Wrapper from "../styled/Wrapper";
 
-import { ICONS } from '../svg';
+import { ICONS } from "../svg";
 
 class Icon extends Component {
   constructor(props) {
     super(props);
-    this.displayName = 'Icon';
+    this.displayName = "Icon";
   }
 
   render() {
@@ -37,8 +37,8 @@ class Icon extends Component {
         disabled={disabled}
       >
         <Icon
-          width={size ? size + 'px' : undefined}
-          height={size ? size + 'px' : undefined}
+          width={size ? size + "px" : undefined}
+          height={size ? size + "px" : undefined}
           {...otherProps}
         />
       </Wrapper>
@@ -55,7 +55,7 @@ Icon.propTypes = {
 };
 
 Icon.defaultProps = {
-  type: ''
+  type: ""
 };
 
-export default Icon;
+export default withTheme(Icon);
