@@ -14,6 +14,8 @@ import {
 import Icon from '../components/Icon';
 import {ICONS} from '../svg';
 
+console.log(Icon)
+
 const elements = storiesOf('Icon', module);
 
 elements.addDecorator(withKnobs);
@@ -33,7 +35,7 @@ elements.add('Icon with spacing right/left', () => {
 
 
 Object.keys(ICONS).forEach((key, i) => {
-
+  
   return elements.add(`Icon '${key}'`, () => {
     return <Icon type={key}/>;
   });

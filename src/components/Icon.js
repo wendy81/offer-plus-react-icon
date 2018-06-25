@@ -6,6 +6,7 @@ import Wrapper from "../styled/Wrapper";
 
 import { ICONS } from "../svg";
 
+
 class Icon extends Component {
   constructor(props) {
     super(props);
